@@ -1,0 +1,18 @@
+#banner {
+    background-color:gold;
+    font-weight: bold;
+}
+
+#navigation {
+    background-color:green;
+    color: wheat;
+}
+
+a:visited {
+    color:red;
+}
+
+a:hover {
+    color:yellow;
+
+}
